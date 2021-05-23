@@ -1,4 +1,5 @@
-# TS-Basic
-First try of ts
+# TS-Basic 👨‍🎓
 
-(dont be rude)
+First try of ts ✍
+
+(dont be rude) 🤐 
